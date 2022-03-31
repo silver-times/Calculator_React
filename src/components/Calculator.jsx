@@ -33,7 +33,7 @@ const Calculator = () => {
             <div className="ml-5">
               <GiHamburgerMenu />
             </div>
-            <p className="mr-5">CONTAINER</p>
+            <p className="mr-5">CALCULATOR - RS</p>
           </div>
 
           {/* screen */}
